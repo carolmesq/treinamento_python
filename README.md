@@ -1,14 +1,18 @@
-# treinamento\_python
+# TREINAMENTO PYTHON
 
-Treinamento em Python
+
+
+
+
+PYTHON BÁSICO PARA ANÁLISE DE DADOS E MODELAGEM
+
+
 
 
 
 Integração de Tecnologias para Análise de Dados Urbanos – Uso de Python e GitHub, aplicação no software Emme
 
 
-
-PYTHON BÁSICO PARA ANÁLISE DE DADOS E MODELAGEM
 
 
 
